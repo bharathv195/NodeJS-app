@@ -4,14 +4,14 @@
   "description": "This application prints HelloWorld using NodeJS",
   "main": "app.js",
   "scripts": {
-     "server": "http-server -c-1 -p 9999",
+    "server": "http-server -c-1 -p 9999",
     "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-     "sonar": "node sonar-project.js"
+    "sonar": "node sonar-project.js"
   },
   
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
   },
   "author": "Bharath",
   "license": "ISC",
