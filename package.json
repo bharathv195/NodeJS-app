@@ -4,8 +4,8 @@
   "description": "This application prints HelloWorld using NodeJS",
   "main": "app.js",
   "scripts": {
-     "sonar": "node sonar-project.js"
      "test": "echo \"Error: no test specified\" && exit 1",
+     "sonar": "node sonar-project.js"
   },
   "author": "Bharath",
   "license": "ISC",
