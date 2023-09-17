@@ -9,9 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
      "sonar": "node sonar-project.js"
   },
+  
+  "dependencies": {
+    "express": "^4.18.2"
+  },
   "author": "Bharath",
   "license": "ISC",
-  "dependencies": {
-    "express": "4.18.2"
-  },
 }
