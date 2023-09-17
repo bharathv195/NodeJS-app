@@ -15,5 +15,5 @@
   "devDependencies": {
     "nodemon": "^1.18.9",
     "sonarqube-scanner": "^2.7.0"
-  },
+  }
 }
